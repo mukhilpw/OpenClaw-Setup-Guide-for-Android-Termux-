@@ -1,9 +1,9 @@
 # Turn Your Old Android Into a 24/7 AI Employee
 ### OpenClaw Setup Guide for Android (Termux)
 
-**Author:** Ali Solanki  
+**Author:** Mukhil 
 
-Before starting, watch this full walkthrough video by Ali Solanki:
+Before starting, watch this full walkthrough video by Mukhil:
 
 ▶ https://youtu.be/hM5LHJByJZk  
 *“I Turned an Old Android into a 24/7 AI Employee (OpenClaw)”*
